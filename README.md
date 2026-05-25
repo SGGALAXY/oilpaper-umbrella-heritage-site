@@ -72,15 +72,9 @@
 - `docs/ai-collaboration-log.md`
 - `docs/image-prompts.md`
 
-## GitHub Pages 发布
+## 网站访问
 
-1. 将本目录所有文件上传到 GitHub 仓库。
-2. 进入仓库 `Settings` → `Pages`。
-3. Source 选择 `Deploy from a branch`。
-4. Branch 选择 `main`，目录选择 `/root`。
-5. 保存后等待 GitHub Pages 生成访问链接。
-
-如果暂时不会发布 GitHub Pages，可先提交本项目压缩包；发布地址后续再补。
+在线访问：https://sggalaxy.github.io/oilpaper-umbrella-heritage-site/
 
 ## 资料来源
 
